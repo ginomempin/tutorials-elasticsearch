@@ -1,0 +1,3 @@
+[submodule "src/complete-guide-to-elasticsearch"]
+	path = src/complete-guide-to-elasticsearch
+	url = https://github.com/codingexplained/complete-guide-to-elasticsearch.git
